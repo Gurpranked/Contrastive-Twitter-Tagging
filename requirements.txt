@@ -1,0 +1,16 @@
+scikit-learn
+torch
+torchvision
+matplotlib
+pandas
+einops
+seaborn
+pickle5
+fitlog
+requests
+contractions
+inflect
+nltk
+torchtext
+nlpaug
+transformers
